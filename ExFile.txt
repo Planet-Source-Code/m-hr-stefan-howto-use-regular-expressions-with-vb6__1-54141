@@ -1,0 +1,5 @@
+This is a bug.
+find the word bugfix.
+find for example bag, or border, boring.
+Find ALL Uppercase Letters in this TEXTfile. 
+Find numbers 09287 and so on 2982
